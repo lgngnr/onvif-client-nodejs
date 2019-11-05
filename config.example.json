@@ -1,0 +1,5 @@
+{
+    "xaddr": "DEVICE_IP/onvif/device_service",
+    "user": "USERNAME",
+    "pass": "PASSWORD" 
+}
